@@ -167,15 +167,6 @@ map_param_registry = {
         "unit_type_bits": 0,
         "map_type": "marines",
     },
-    "corridor": {
-        "n_agents": 6,
-        "n_enemies": 24,
-        "limit": 400,
-        "a_race": "P",
-        "b_race": "Z",
-        "unit_type_bits": 0,
-        "map_type": "zealots",
-    },
     "6h_vs_8z": {
         "n_agents": 6,
         "n_enemies": 8,
@@ -221,6 +212,15 @@ map_param_registry = {
         "unit_type_bits": 0,
         "map_type": "colossus",
     },
+    "corridor": {
+        "n_agents": 25,
+        "n_enemies": 25,
+        "limit": 150,
+        "a_race": "T",
+        "b_race": "T",
+        "unit_type_bits": 0,
+        "map_type": "marines",
+    }
 }
 
 
