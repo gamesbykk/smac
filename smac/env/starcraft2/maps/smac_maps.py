@@ -215,7 +215,7 @@ map_param_registry = {
     "corridor": {
         "n_agents": 25,
         "n_enemies": 25,
-        "limit": 150,
+        "limit": 400,
         "a_race": "T",
         "b_race": "T",
         "unit_type_bits": 0,
